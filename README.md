@@ -8,10 +8,8 @@
 
 ### What you can find here
 
-##### Qt / Django / React ✈️
+##### Qt / Django / React 
 
-| [LSZH Movements](https://github.com/mnemocron/LSZHMovements) | [LSGS Movements](https://github.com/mnemocron/LSGSMovements) | [LSZB Movements](https://github.com/mnemocron/LSZBMovements) | [LSZS Movements](https://github.com/mnemocron/LSZSMovements) |
-|:---|:---|:---|:---|
 
 ##### Embedded stuff (STM32 etc) 👾
 
