@@ -1,10 +1,29 @@
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
 ### Hi there 👋
 
+- 🎓 BSc in Electronical Engineering
+- ❤️ loving to code in C++, Python and Javascript
+- 🌐 [febbymadrin.com](https://febbymadrin.com)
 
-[TOC]
+### What you can find here
 
+##### Qt / Django / React ✈️
 
+| [LSZH Movements](https://github.com/mnemocron/LSZHMovements) | [LSGS Movements](https://github.com/mnemocron/LSGSMovements) | [LSZB Movements](https://github.com/mnemocron/LSZBMovements) | [LSZS Movements](https://github.com/mnemocron/LSZSMovements) |
+|:---|:---|:---|:---|
 
+##### Embedded stuff (STM32 etc) 👾
+
+| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [ESP32/8266-Tutorial](https://github.com/mnemocron/libDaylength) | [RaspberryPi-Tutorial](https://github.com/eta-systems/ADS1255) | [JetsonNano-Tutorial](https://github.com/eta-systems/MAX5717) | [Sensor-Library](https://github.com/eta-systems/MAX7313) |
+|:---|:---|:---|:---|:---|
+
+##### Electronic Hardware stuff (Altium & KiCad) 💡
+
+| [DWM1001_Tracker](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [Small_Projects](https://github.com/mnemocron/KiCad3DExportTutorial) |
+|:---|:---|
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,12 +35,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
 ## Embedded / IoT
 
 ## Qt Application
 
 ## Tutorials
+-->
+
+
+
+
 
