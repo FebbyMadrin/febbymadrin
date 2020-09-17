@@ -4,7 +4,7 @@
 
 - 🎓 BSc in Electronical Engineering
 - ❤️ loving to code in C++, Python and Javascript
-- 🌐 [febbymadrin.com](https://febbymadrin.com)
+- 🌐 [febbymadrin.github.io](https://febbymadrin.github.io)
 
 ### What you can find here
 
