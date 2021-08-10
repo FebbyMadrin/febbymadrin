@@ -13,12 +13,12 @@
 
 ##### Embedded stuff (STM32 etc) 👾
 
-| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [ESP32/8266-Tutorial](https://github.com/mnemocron/libDaylength) | [RaspberryPi-Tutorial](https://github.com/eta-systems/ADS1255) | [JetsonNano-Tutorial](https://github.com/eta-systems/MAX5717) | [Sensor-Library](https://github.com/eta-systems/MAX7313) |
+| [STM32-Tutorial](https://github.com/febbymadrin) | [ESP32/8266-Tutorial](https://github.com/febbymadrin) | [RaspberryPi-Tutorial](https://github.com/febbymadrin) | [JetsonNano-Tutorial](https://github.com/febbymadrin | [Sensor-Library](https://github.com/febbymadrin) |
 |:---|:---|:---|:---|:---|
 
 ##### Electronic Hardware stuff (Altium & KiCad) 💡
 
-| [DWM1001_Tracker](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [Small_Projects](https://github.com/mnemocron/KiCad3DExportTutorial) |
+| [DWM1001_Tracker](https://github.com/febbymadrin) | [Small_Projects](https://github.com/febbymadrin) |
 |:---|:---|
 
 <!--
