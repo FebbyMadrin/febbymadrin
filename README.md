@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-- 🎓 BSc in Electronical Engineering
 - ❤️ loving to code in C++, Python and Javascript
-- 🌐 [febbymadrin.github.io](https://febbymadrin.github.io)
+- 🌐 febbymadrin.com
 
 ### What you can find here
 
